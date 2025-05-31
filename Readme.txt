@@ -62,9 +62,3 @@ matplotlib.backends.backend_tkagg:
 matplotlib.ticker.AutoMinorLocator:
 	- To enhance the aesthetics and improve the readability of the data visualizations, I used matplotlib.ticker.AutoMinorLocator to control the placement of minor ticks on the axes.
 	Additionally, this library was utilized to add gridlines to the graphs, further enhancing their visual appeal and informativeness.
-
-
-
-						Thank you
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
